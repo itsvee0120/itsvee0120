@@ -2,7 +2,7 @@
 
 <div style="position: relative; width: 100%; overflow: hidden; text-align: center; padding: 20px;">
  <div align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExazEycWJkdmRyZ3lhaXo5bWxqdGRzcWhibnJ5b3lnZ2lmd3MwdzlqOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/84SFZf1BKgzeny1WxQ/giphy.webp" alt="Profile GIF" style="max-width: 100%; height: auto;"/>
+  <img src="pxArt.png" alt="Profile GIF" style="max-width: 100%; height: auto;"/>
   
 </div>
 
