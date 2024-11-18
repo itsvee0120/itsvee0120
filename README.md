@@ -2,7 +2,7 @@
 
 <div style="position: relative; width: 100%; overflow: hidden; text-align: center; padding: 20px;">
  <div align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTN4MHBjcTYwODJyb201NmZwZzAyZTh2cTZhMmx2OWRoenh0M2VtYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iyRcTc5s9bNgUaN5y5/giphy.webp" alt="Profile GIF" style="max-width: 100%; height: auto;"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHU0eWlhamxuZ2cycTZmcnNmazRlaGYwajEzbHY2aWtlbmo5NnF3YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cCCWygFWkpChuiPlWi/giphy.webp" alt="Profile GIF" style="max-width: 100%; height: auto;"/>
   
 </div>
 
