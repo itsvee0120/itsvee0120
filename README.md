@@ -24,6 +24,8 @@
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=itsvee0120&repo=Barcode_QRcode_Generator&theme=radical" alt="Barcode_QRcode_Generator Repo" />
         <br>
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=itsvee0120&repo=Art-quote-widget&theme=radical" alt="Art-quote-widget Repo" />
+       <br>
+       <img src="https://github-readme-stats.vercel.app/api/pin/?username=itsvee0120&repo=Social-Media-Platform&theme=radical" alt="Art-quote-widget Repo" />
       </td>
     </tr>
   </table>
