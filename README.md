@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&color=ffffff&size=45&center=true&vCenter=true&width=700&lines=👋+Hi,+I'm+Violet!;Welcome+to+my+GitHub!;Let's+exchange+fun+ideas!)](https://git.io/typing-svg)
 
-<div style="position: relative; width: 100%; height: 100vh; overflow: hidden;">
-  <img src="Vee.gif" alt="Profile GIF" style="position: absolute; top: 50%; left: 50%; max-width: 30%; height: auto; transform: translate(-50%, -50%);"/>
+<div style="position: relative; width: 100%; overflow: hidden; text-align: center; padding: 20px;">
+  <img src="Vee.gif" alt="Profile GIF" style="max-width: 30vw; height: auto;"/>
 </div>
 
 ## 🌟 My Skills
