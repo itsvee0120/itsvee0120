@@ -16,11 +16,9 @@
   <table>
     <tr>
       <td>
-        <h3>Most Used Languages</h3>
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=itsvee0120&layout=compact&theme=radical" alt="Top Languages" />
       </td>
       <td>
-        <h3>Featured Repositories</h3>
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=itsvee0120&repo=AD300&theme=radical" alt="AD300 Repo" />
         <br>
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=itsvee0120&repo=Barcode_QRcode_Generator&theme=radical" alt="Barcode_QRcode_Generator Repo" />
