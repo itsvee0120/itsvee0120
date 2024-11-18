@@ -2,7 +2,8 @@
 
 <div style="position: relative; width: 100%; overflow: hidden; text-align: center; padding: 20px;">
  <div align="center">
-  <img src="Vee.gif" alt="Profile GIF" style="max-width: 30%; max-height: 30%;"/>
+  <img src="https://giphy.com/gifs/80s-synthwave-aesthetic-84SFZf1BKgzeny1WxQ" alt="Profile GIF" style="max-width: 30%; max-height: 30%;"/>
+  
 </div>
 
 ## 🌟 My Skills
