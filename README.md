@@ -1,8 +1,15 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&color=ffffff&size=45&center=true&vCenter=true&width=700&lines=👋+Hi,+I'm+Violet!;Welcome+to+my+GitHub!;Let's+exchange+fun+ideas!)](https://git.io/typing-svg)
 
 <div style="position: relative; width: 100%; overflow: hidden; text-align: center; padding: 20px;">
-  <img src="Vee.gif" alt="Profile GIF" style="max-width: 30vw; height: auto;"/>
+  <img src="Vee.gif" alt="Profile GIF" style="max-width: 30vw; height: auto; animation: float 3s ease-in-out infinite;"/>
 </div>
+
+<style>
+  @keyframes float {
+    0%, 100% { transform: translateY(0); }
+    50% { transform: translateY(-10px); }
+  }
+</style>
 
 ## 🌟 My Skills
 
