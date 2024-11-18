@@ -16,10 +16,10 @@
   <table>
     <tr>
       <td>
-        <img href="https://github.com/itsvee0120/AD300" src="https://github-readme-stats.vercel.app/api/top-langs?username=itsvee0120&layout=compact&theme=radical" alt="Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=itsvee0120&layout=compact&theme=radical" alt="Top Languages" />
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=itsvee0120&repo=AD300&theme=radical" alt="AD300 Repo" />
+        <img href="https://github.com/itsvee0120/AD300" src="https://github-readme-stats.vercel.app/api/pin/?username=itsvee0120&repo=AD300&theme=radical" alt="AD300 Repo" />
         <br>
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=itsvee0120&repo=Barcode_QRcode_Generator&theme=radical" alt="Barcode_QRcode_Generator Repo" />
         <br>
