@@ -2,7 +2,7 @@
 
 <div style="position: relative; width: 100%; overflow: hidden; text-align: center; padding: 20px;">
  <div align="center">
-  <img src="https://giphy.com/gifs/80s-synthwave-aesthetic-84SFZf1BKgzeny1WxQ" alt="Profile GIF" style="max-width: 30%; max-height: 30%;"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExazEycWJkdmRyZ3lhaXo5bWxqdGRzcWhibnJ5b3lnZ2lmd3MwdzlqOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/84SFZf1BKgzeny1WxQ/giphy.webp" alt="Profile GIF" style="max-width: 100%; height: auto;"/>
   
 </div>
 
