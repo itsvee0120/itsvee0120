@@ -35,8 +35,8 @@
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=itsvee0120&repo=Social-Media-Platform&theme=radical" alt="Social-Media-Platform Repo" />
     </a>
 </td>
-
     </tr>
+
   </table>
 </div>
 
