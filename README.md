@@ -53,4 +53,4 @@
 
 - 🌐 Check out my [GitHub Repositories](https://github.com/itsvee0120?tab=repositories)
 - 📢 My blog is up and running [Here](https://www.notion.so/itsmevee/Violet-s-Blog-aace82705f8c440894be69f7193f63f5)
-- ✉️ Email me at [nviolet0120@gmail.com](mailto:nviolet0120@gmail.com)
+- ✉️ Contact me with my [Contact Form](https://itsmevee.notion.site/1acc45e4348d807bbb09e562b0952382?pvs=105)
