@@ -19,6 +19,8 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=itsvee0120&layout=compact&theme=radical" alt="Top Languages" />
       </td>
      <td>
+       <a href="https://github.com/itsvee0120/violet-website" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=itsvee0120&repo=violet-website&theme=radical" alt="Violet Website Repo" />
     <br>
     <a href="https://github.com/itsvee0120/Barcode_QRcode_Generator" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=itsvee0120&repo=Barcode_QRcode_Generator&theme=radical" alt="Barcode_QRcode_Generator Repo" />
