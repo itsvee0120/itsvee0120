@@ -19,16 +19,16 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=itsvee0120&layout=compact&theme=radical" alt="Top Languages" />
       </td>
      <td>
-    <a href="https://github.com/itsvee0120/AD300" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=itsvee0120&repo=AD300&theme=radical" alt="AD300 Repo" />
+   <a href="https://github.com/itsvee0120/violet-website" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=itsvee0120&repo=violet-website&theme=radical" alt="Violet Website Repo" />
     </a>
     <br>
     <a href="https://github.com/itsvee0120/Barcode_QRcode_Generator" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=itsvee0120&repo=Barcode_QRcode_Generator&theme=radical" alt="Barcode_QRcode_Generator Repo" />
     </a>
     <br>
-    <a href="https://github.com/itsvee0120/Art-quote-widget" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=itsvee0120&repo=Art-quote-widget&theme=radical" alt="Art-quote-widget Repo" />
+     <a href="https://github.com/itsvee0120/AD300" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=itsvee0120&repo=AD300&theme=radical" alt="AD300 Repo" />
     </a>
     <br>
     <a href="https://github.com/itsvee0120/Social-Media-Platform" target="_blank">
