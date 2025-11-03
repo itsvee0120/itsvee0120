@@ -3,7 +3,7 @@
 <div style="position: relative; width: 100%; overflow: hidden; text-align: center; padding: 20px;">
  <div align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHU0eWlhamxuZ2cycTZmcnNmazRlaGYwajEzbHY2aWtlbmo5NnF3YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cCCWygFWkpChuiPlWi/giphy.webp" alt="Profile GIF" style="max-width: 100%; height: auto;"/>
-  
+ </div>
 </div>
 
 ## 🌟 My Skills
@@ -18,24 +18,20 @@
       <td>
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=itsvee0120&layout=compact&theme=radical" alt="Top Languages" />
       </td>
-     <td>
-       <a href="https://github.com/itsvee0120/violet-website" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=itsvee0120&repo=violet-website&theme=radical" alt="Violet Website Repo" />
-    <br>
-    <a href="https://github.com/itsvee0120/Barcode_QRcode_Generator" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=itsvee0120&repo=Barcode_QRcode_Generator&theme=radical" alt="Barcode_QRcode_Generator Repo" />
-    </a>
-    <br>
-     <a href="https://github.com/itsvee0120/AD300" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=itsvee0120&repo=AD300&theme=radical" alt="AD300 Repo" />
-    </a>
-    <br>
-    <a href="https://github.com/itsvee0120/time-bank" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=itsvee0120&repo=time-bank&theme=radical" alt="Time Bank Repo" />
-    </a>
-</td>
+      <td>
+        <a href="https://github.com/itsvee0120/time-bank" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=itsvee0120&repo=time-bank&theme=radical" alt="Time Bank Repo" />
+        </a>
+        <br>
+        <a href="https://github.com/itsvee0120/violet-website" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=itsvee0120&repo=violet-website&theme=radical" alt="Violet Website Repo" />
+        </a>
+        <br>
+        <a href="https://github.com/itsvee0120/Barcode_QRcode_Generator" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=itsvee0120&repo=Barcode_QRcode_Generator&theme=radical" alt="Barcode_QRcode_Generator Repo" />
+        </a>
+      </td>
     </tr>
-
   </table>
 </div>
 
@@ -44,7 +40,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/violetnguyen0120/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    
   </a>
 </p>
 
