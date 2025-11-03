@@ -30,8 +30,8 @@
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=itsvee0120&repo=AD300&theme=radical" alt="AD300 Repo" />
     </a>
     <br>
-    <a href="https://github.com/itsvee0120/Social-Media-Platform" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=itsvee0120&repo=Social-Media-Platform&theme=radical" alt="Social-Media-Platform Repo" />
+    <a href="https://github.com/itsvee0120/time-bank" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=itsvee0120&repo=time-bank&theme=radical" alt="Time Bank Repo" />
     </a>
 </td>
     </tr>
