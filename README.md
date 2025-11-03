@@ -8,7 +8,7 @@
 
 ## 🌟 My Skills
 
-[![My Skills](https://skillicons.dev/icons?i=java,python,html,css,js,mysql)](#)
+[![My Skills](https://skillicons.dev/icons?i=java,python,html,css,js,expo,react,azure,csharp,mysql,postgresql)](#)
 
 ## 🐈‍⬛ All About My GitHub!
 
