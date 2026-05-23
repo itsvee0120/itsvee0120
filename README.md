@@ -13,26 +13,27 @@
 ## 🐈‍⬛ All About My GitHub!
 
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=itsvee0120&layout=compact&theme=radical" alt="Top Languages" />
-      </td>
-      <td>
-        <a href="https://github.com/itsvee0120/vaux" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=itsvee0120&repo=vaux&theme=radical" alt="Vaux - Music Jam Room on CLI" />
-        </a>
-        <br>
-        <a href="https://github.com/itsvee0120/violet-website" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=itsvee0120&repo=violet-website&theme=radical" alt="Violet Website Repo" />
-        </a>
-        <br>
-        <a href="https://github.com/itsvee0120/Barcode_QRcode_Generator" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=itsvee0120&repo=Barcode_QRcode_Generator&theme=radical" alt="Barcode_QRcode_Generator Repo" />
-        </a>
-      </td>
-    </tr>
-  </table>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=itsvee0120&layout=compact&theme=radical" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=itsvee0120&show_icons=true&theme=radical" />
+
+</div>
+
+<div align="center">
+
+<a href="https://github.com/itsvee0120/vaux">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=itsvee0120&repo=vaux&theme=radical" />
+</a>
+
+<a href="https://github.com/itsvee0120/violet-website">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=itsvee0120&repo=violet-website&theme=radical" />
+</a>
+
+<a href="https://github.com/itsvee0120/Barcode_QRcode_Generator">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=itsvee0120&repo=Barcode_QRcode_Generator&theme=radical" />
+</a>
+
 </div>
 
 ## 🌎 My Socials
