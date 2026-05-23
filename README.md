@@ -25,6 +25,7 @@ A synchronized music listening platform with:
 - CLI + Web clients
 
 👉 https://github.com/itsvee0120/vaux
+🌐 Live demo here: https://vaux-ten.vercel.app/ 
 
 ---
 
