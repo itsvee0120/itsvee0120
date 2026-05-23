@@ -32,7 +32,7 @@ A synchronized music listening platform with:
 ### 🌐 Violet Website
 Personal website / portfolio project.
 
-👉 https://github.com/itsvee0120/violet-website
+👉 https://itsvee0120.github.io/violet-website/
 
 ---
 
