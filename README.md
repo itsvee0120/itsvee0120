@@ -19,8 +19,8 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=itsvee0120&layout=compact&theme=radical" alt="Top Languages" />
       </td>
       <td>
-        <a href="https://github.com/itsvee0120/time-bank" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=itsvee0120&repo=time-bank&theme=radical" alt="Time Bank Repo" />
+        <a href="https://github.com/itsvee0120/vaux" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=itsvee0120&repo=vaux&theme=radical" alt="Vaux - Music Jam Room on CLI" />
         </a>
         <br>
         <a href="https://github.com/itsvee0120/violet-website" target="_blank">
